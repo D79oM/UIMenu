@@ -110,5 +110,4 @@ The sample.xm in the project shows an example project.
   * For [KittyMemory](https://github.com/MJx0/KittyMemory)
 
 Theos : https://github.com/D79oM/Theos
-
  ᗪ79ㄖ爪 ~ 🤍
