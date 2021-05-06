@@ -28,7 +28,8 @@
 
 ### Usage:
 
-Changing the menu logo open MenuButton.h and paste own menu image https://www.base64-encode.org/
+Changing the menu logo open MenuButton.h and paste own menu image 
+https://www.base64-encode.org/
 
 <b> Setting a framework as executable </b>
 You can set this in the function setupMenu() inside Tweak.xm
