@@ -1,0 +1,9 @@
+Package: my
+Name: HACK D79oM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: by D79oM!
+Maintainer: D79oM
+Author: D79oM
+Section: Tweaks
+Version: 1.2
