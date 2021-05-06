@@ -109,5 +109,5 @@ The sample.xm in the project shows an example project.
 * [MJx0](https://github.com/MJx0)
   * For [KittyMemory](https://github.com/MJx0/KittyMemory)
 
-<b>Theos : </b> https://Github.com/D79oM/Theos
+<b>Theos : https://github.com/D79oM/Theos </b>
  ᗪ79ㄖ爪 ~ 🤍
