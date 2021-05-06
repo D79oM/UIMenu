@@ -28,13 +28,7 @@
 
 ### Usage:
 
-<b> Changing the menu images </b>
-
-Inside the tweak.xm, you'll setup the menu under the function "setupMenu". 
-Here you'll see two options under the menu: menuIcon & menuButton, those require a base64 image string.
-In order to get a base64 string from the image, upload the image here: https://www.browserling.com/tools/image-to-base64
-
-Images 50x50 are recommended, you can get a sample of my images by copying the standard(in tweak.xm) base64 string & use this website to show the picture: https://base64.guru/converter/decode/image
+Changing the menu logo open r16Logo.h and paste own menu image https://www.base64-encode.org/
 
 <b> Setting a framework as executable </b>
 You can set this in the function setupMenu() inside Tweak.xm
